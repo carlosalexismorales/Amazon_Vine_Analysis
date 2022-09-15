@@ -27,7 +27,7 @@ The data set used for this analysis was reviews for video games.
 
 
 
-In the images below, we see that there was 94 Vine reviews and 40,471 non-Vine reviews
+In the images below, we see that there was 94 Vine reviews and 40,471 non-Vine reviews.
 
 <img width="792" alt="Screen Shot 2022-09-14 at 7 59 01 PM" src="https://user-images.githubusercontent.com/102444078/190303464-a4b49bb6-05df-431c-bb7c-9757d8f0ded7.png">
 
@@ -39,6 +39,16 @@ In the images below, we see that there was 94 Vine reviews and 40,471 non-Vine r
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+
+In the images below, we see that there were 48 Vine 5 star views and 15,663 non-Vine 5 star reviews. 
+
+
+<img width="746" alt="Screen Shot 2022-09-14 at 8 03 10 PM" src="https://user-images.githubusercontent.com/102444078/190304016-9e5b7b6f-b62e-4ff0-aa1a-0954632553ec.png">
+
+
+
+
+<img width="742" alt="Screen Shot 2022-09-14 at 8 03 44 PM" src="https://user-images.githubusercontent.com/102444078/190304111-bdc65897-e123-43e3-8b7f-a66acc896f17.png">
 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
