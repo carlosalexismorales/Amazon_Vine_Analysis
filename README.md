@@ -102,3 +102,9 @@ In the images below, we see that that the percentage of Vine reviews that were 5
 ## Summary
 
 
+
+
+Comparing the percentages of 5 star Vine reviesws to non-Vine 5 reviews, we can determine that there was a positivity bias since 51% > 39%. for reviews in the Vine program.
+
+One additional analysis we could do is compare the rest of the Vine and non-Vine reviews to see if there is a positive bias across the board. That can help us determine if Vine reviews have an overall positive bias regardless of how the products were rated. 
+
